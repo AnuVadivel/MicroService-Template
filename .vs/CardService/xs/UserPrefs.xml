@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1332A6DE-62E0-4653-959C-DDD553276034}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="{{cookiecutter.ProjectName}}Service/Program.cs">
+    <Files>
+      <File FileName="MasterCardPlugin/MasterCard.cs" Line="13" Column="1" />
+      <File FileName="{{cookiecutter.ProjectName}}Service/Program.cs" Line="22" Column="1" />
+      <File FileName="CardPluginBase/ICardPlugin.cs" Line="1" Column="1" />
+      <File FileName="VisaCardPlugin/VisaCardPlugin.csproj" />
+      <File FileName="VisaCardPlugin/VisaCard.cs" Line="6" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="{{cookiecutter.ProjectName}}Service" expanded="True">
+            <Node name="{{cookiecutter.ProjectName}}Service">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.{{cookiecutter.ProjectName}}Service PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
